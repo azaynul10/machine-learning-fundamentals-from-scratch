@@ -1,0 +1,30 @@
+# Ignore all PDF files (assignment questions, receipts, guidelines)
+*.pdf
+
+# Ignore all Word documents
+*.docx
+
+# Ignore all PowerPoint presentations
+*.pptx
+
+# Ignore archive formats
+*.zip
+*.rar
+*.tar.gz
+
+# Ignore local checkpoints or system files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Ignore scratch files or receipts
+receipt_*
+
+# Ignore chat logs and notes
+gemini chat.md
+notebooklm.md
+
+# Ignore OS system files
+desktop.ini
+
+
