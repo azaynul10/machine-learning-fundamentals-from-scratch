@@ -1,4 +1,4 @@
-# 🎓 CSE422: Artificial Intelligence - Ultimate Student Survival Guide 🚀
+# 🎓 CSE422: Artificial Intelligence - Ultimate Student Survival Guide 
 
 Welcome to the **CSE422 (Artificial Intelligence)** open-source repository! This repository has been structured as a comprehensive, interactive student survival guide to help you navigate through the concepts, mathematical formulas, and coding requirements of the CSE422 course at BRAC University.
 
