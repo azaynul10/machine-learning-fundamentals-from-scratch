@@ -109,7 +109,7 @@ To build a graph of four nodes where the heuristic is admissible but not consist
 ---
 
 ### Grid Pathfinding (Assignment 1, Q4)
-*   **Euclidean Distance** (straight-line distance) is **ineffective** on grids with orthogonal-only movement, obstacles ($\#$), and high hazard penalty zones ($R$ costing 10). A\* will severely underestimate costs and expand too many nodes.
+*   **Euclidean Distance** (straight-line distance) is **ineffective** on grids with orthogonal-only movement, obstacles (`#`), and high hazard penalty zones ($R$ costing 10). A\* will severely underestimate costs and expand too many nodes.
 *   **Manhattan Distance** is the optimal heuristic for orthogonal grid movement:
     $$h(n) = |x_n - x_{\text{goal}}| + |y_n - y_{\text{goal}}|$$
 
